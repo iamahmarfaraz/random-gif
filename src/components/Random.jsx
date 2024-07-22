@@ -1,4 +1,4 @@
-import React, { useEffect, useImperativeHandle, useState } from "react";
+import React, { useEffect, useState } from "react";
 import axios from "axios";
 import Spinner from "./Spinner";
 import useGif from "../hooks/useGif"
